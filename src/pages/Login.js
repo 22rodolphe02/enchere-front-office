@@ -31,13 +31,13 @@ export default function Login(){
                                         <div className="col-12">
                                             <div className="form-inner">
                                                 <label>Enter Your Email *</label>
-                                                <input type="email" value="admin@gmail.com" placeholder="Enter Your Email" {...register('email')} />
+                                                <input type="email" defaultValue="admin@gmail.com" placeholder="Enter Your Email" {...register('email')} />
                                             </div>
                                         </div>
                                         <div className="col-12">
                                             <div className="form-inner">
                                                 <label>Password *</label>
-                                                <input type="password" value="admin" name="password" {...register('mpd')} id="password" placeholder="Password"/>
+                                                <input type="password" defaultValue="admin" name="password" {...register('mpd')} id="password" placeholder="Password"/>
                                                 <i className="bi bi-lock-fill" id="togglePassword"></i>
                                             </div>
                                         </div>

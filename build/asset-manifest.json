@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.663cc13a.css",
-    "main.js": "/static/js/main.01dbacfb.js",
+    "main.css": "/static/css/main.d850df6a.css",
+    "main.js": "/static/js/main.a7314041.js",
     "static/js/787.bb38a835.chunk.js": "/static/js/787.bb38a835.chunk.js",
     "static/media/boxiconsd41d.svg": "/static/media/boxiconsd41d.fff4a3904fd6c2139c5d.svg",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.45690f4345fd0e303e35.svg",
@@ -47,19 +47,19 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "static/media/sec-arro1.svg": "/static/media/sec-arro1.7da8f13f846b9b28aa3a.svg",
-    "static/media/ui-icons_444444_256x240.html": "/static/media/ui-icons_444444_256x240.2c471c434413f2ae024b.html",
-    "static/media/ui-icons_555555_256x240.html": "/static/media/ui-icons_555555_256x240.2c471c434413f2ae024b.html",
-    "static/media/ui-icons_777620_256x240.html": "/static/media/ui-icons_777620_256x240.2c471c434413f2ae024b.html",
-    "static/media/ui-icons_777777_256x240.html": "/static/media/ui-icons_777777_256x240.2c471c434413f2ae024b.html",
-    "static/media/ui-icons_cc0000_256x240.html": "/static/media/ui-icons_cc0000_256x240.2c471c434413f2ae024b.html",
-    "static/media/ui-icons_ffffff_256x240.html": "/static/media/ui-icons_ffffff_256x240.2c471c434413f2ae024b.html",
+    "static/media/ui-icons_444444_256x240.html": "/static/media/ui-icons_444444_256x240.57711ba72b5c6de582dd.html",
+    "static/media/ui-icons_555555_256x240.html": "/static/media/ui-icons_555555_256x240.57711ba72b5c6de582dd.html",
+    "static/media/ui-icons_777620_256x240.html": "/static/media/ui-icons_777620_256x240.57711ba72b5c6de582dd.html",
+    "static/media/ui-icons_777777_256x240.html": "/static/media/ui-icons_777777_256x240.57711ba72b5c6de582dd.html",
+    "static/media/ui-icons_cc0000_256x240.html": "/static/media/ui-icons_cc0000_256x240.57711ba72b5c6de582dd.html",
+    "static/media/ui-icons_ffffff_256x240.html": "/static/media/ui-icons_ffffff_256x240.57711ba72b5c6de582dd.html",
     "static/media/sec-arro2.svg": "/static/media/sec-arro2.c8d34e4dc1e8d5269693.svg",
-    "main.663cc13a.css.map": "/static/css/main.663cc13a.css.map",
-    "main.01dbacfb.js.map": "/static/js/main.01dbacfb.js.map",
+    "main.d850df6a.css.map": "/static/css/main.d850df6a.css.map",
+    "main.a7314041.js.map": "/static/js/main.a7314041.js.map",
     "787.bb38a835.chunk.js.map": "/static/js/787.bb38a835.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.663cc13a.css",
-    "static/js/main.01dbacfb.js"
+    "static/css/main.d850df6a.css",
+    "static/js/main.a7314041.js"
   ]
 }
